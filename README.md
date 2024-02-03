@@ -1,3 +1,4 @@
+[![HTML Proofer](https://github.com/YezikovMaksym/web-project/actions/workflows/validate.yml/badge.svg)](https://github.com/YezikovMaksym/web-project/actions/workflows/validate.yml)
 # HTML Template Repository with HTML Proofer
 
 This template repository includes preconfigured GitHub Action that will validate html files in a project with (HTMLProofer)[https://github.com/gjtorikian/html-proofer/].
